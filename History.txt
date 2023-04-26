@@ -1,4 +1,4 @@
 Hola, esta es una prueba para el uso de git.
 Adiós
-Y hago esta adición para una prueba
-y esta otra adición para otra prueba
+Y hago esta adición para una prueba.
+y esta otra adición para otra prueba.
