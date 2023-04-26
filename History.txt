@@ -1,1 +1,2 @@
-Hola, esta es una prueba para el uso de git
+Hola, esta es una prueba para el uso de git.
+Adiós
