@@ -2,4 +2,4 @@ Hola, esta es una prueba para el uso de git.
 Adiós
 Y hago esta adición para una prueba.
 y esta otra adición para otra prueba.
-Esta adición la hago como JohnZ
+Esta adición la hago como JohnZ en un fork del repostorio oficial.
