@@ -21,7 +21,7 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 35px;
     vertical-align: middle;
 }
 
@@ -29,7 +29,7 @@ body
 {
     padding: 0 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 #container
@@ -43,7 +43,7 @@ body
 
 #container h1
 {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 #post
@@ -54,7 +54,7 @@ body
 
 #footer
 {
-    background: #777;
+    background: rgb(123, 0, 0);
     color: white;
     text-align: center;
     padding: 0.5em;
