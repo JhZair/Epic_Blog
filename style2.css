@@ -1,0 +1,82 @@
+/* Estilos básicos y minimalistas */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.8; /* Aumenta la separación entre líneas */
+    background-color: #f4f4f4;
+    color: #333;
+    font-size: 22px; /* Tamaño de fuente más grande */
+}
+
+/* Estilo del encabezado */
+header {
+    text-align: center;
+    background-color: #007acc;
+    color: #fff;
+    padding: 2rem 0; /* Más espacio alrededor del encabezado */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3rem; /* Letras más grandes */
+    font-weight: bold;
+}
+
+header p {
+    margin: 1rem 0 0;
+    font-size: 1.5rem; /* Tamaño del subtítulo ajustado */
+}
+
+/* Contenido principal */
+main {
+    max-width: 900px;
+    margin: 3rem auto; /* Más espacio entre el contenido principal y el borde */
+    background: #fff;
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Secciones */
+section {
+    margin-bottom: 3rem; /* Más separación entre secciones */
+}
+
+h2 {
+    color: #007acc;
+    font-size: 2rem; /* Tamaño de título de sección más grande */
+    border-bottom: 2px solid #007acc;
+    padding-bottom: 0.5rem;
+}
+
+/* Listas */
+ul {
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+li {
+    margin-bottom: 0.9rem; /* Más espacio entre elementos de lista */
+}
+
+/* Enlaces */
+a {
+    color: #007acc;
+    text-decoration: none;
+    font-size: 1.4rem; /* Aumenta el tamaño del texto en los enlaces */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    margin-top: 7rem; /* Más espacio antes del pie de página */
+    padding: 1.5rem 0;
+    background: #333;
+    color: #fff;
+    font-size: 1rem;
+}
